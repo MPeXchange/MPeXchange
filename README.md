@@ -10,7 +10,7 @@ The design architecture design is loosely based around the architecture presente
 
 A diagram of MPX's architecture is shown below:
 
-![MPeXchange Architecture](./Exchange Architecture.png)
+![MPeXchange Architecture](./ExchangeArchitecture.png)
 
 ### Components
 
